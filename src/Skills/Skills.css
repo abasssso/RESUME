@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 0px solid grey;
+  border-radius: 20px;
+  /* margin: 10px 10px; */
+
+  background-color: #cfe8fc;
+  color: black;
+}
+.container-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.container-card h2 {
+  margin: 0px 28px;
+}
+.person-skill {
+  width: 70px;
+  margin: 5px;
+  border-radius: 20px;
+}
